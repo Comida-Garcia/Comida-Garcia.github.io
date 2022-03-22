@@ -7,5 +7,4 @@
   <input type="submit" value="Submit">
 </form>
 
-<h2>HTML Forms</h2>
 
