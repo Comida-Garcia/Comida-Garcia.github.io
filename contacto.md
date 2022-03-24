@@ -1,10 +1,19 @@
  ## CONTACTOS ##
 
- <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+<form action="https://formspree.io/f/xbjwajgj" method="POST">
+  <label for="name">nombres:</label><br>
+  <input type="text" id="fn name" name="name" value="tus nombres"><br>
+  
+  <label for="lname">apellidos:</label><br>
+  <input type="text" id="lname" name="lname" value="tus apellidos"><br>
+  <label for="name">direccion:</label><br>
+  <input type="text" id="fn direccion" direccion="direccion" value="tu direccion"><br> 
+  <label for="name">telefono:</label><br>
+  <input type="text" id="fn telefono" telefono="telefono" value="tu telefono"><br>
+  <input type="submit" value="Enviar">
+  <form action="/action_page.php">
+  <label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday">
   <input type="submit" value="Submit">
-</form>
-
+</form> 
 
