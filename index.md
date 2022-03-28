@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[CONTACTO](./contacto.md)
+[MENU](./menu.md)  [CONTACTO](./contacto.md)
 
 You can use the [editor on GitHub](https://github.com/Comida-Garcia/bayo2324/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
